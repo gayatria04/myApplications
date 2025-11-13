@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangoproject',
         'USER': 'root',
-        'PASSWORD': 'Asq4l6f@5dZy004',  # ← Change this to the password you just used
+        'PASSWORD': 'root',  # ← Change this to the password you just used
         'HOST': 'localhost',
         'PORT': '3306'
     }
