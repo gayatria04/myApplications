@@ -85,6 +85,9 @@ App.py- this file is inside python_flask folder
 
 4.	Python Django-blog app
 # Windows 
+
+- Update the settings.py, manage.py, posts/urls.py, djangoproject/urls.py from the github folder django_blog_altered
+
 # Clone the repository
 -	git clone https://github.com/bradtraversy/djangocrashcourse.git
 -	cd djangocrashcourse
